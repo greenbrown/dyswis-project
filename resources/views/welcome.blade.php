@@ -28,10 +28,10 @@
          @include('partials.header')
 
          @include('partials.hero')
+
+         @include('partials.hosts')
     
          @include('partials.section')
-
-         @include('partials.featured')
     
          @include('partials.subscribe')
 

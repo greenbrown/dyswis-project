@@ -1,8 +1,8 @@
-<div class="site-section bg-light block-13">
+<div class="site-section bg-dark block-13">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md-12 text-center">
-            <h2 class="font-weight-bold text-black">Featured Guests</h2>
+            <h2 class="font-weight-bold text-white">Your Hosts</h2>
           </div>
         </div>
         <div class="nonloop-block-13 owl-carousel">

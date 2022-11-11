@@ -4,14 +4,14 @@
         <div class="row">
           <div class="col-lg-3">
             <div class="featured-user  mb-5 mb-lg-0">
-              <h3 class="mb-4">Popular Podcaster</h3>
+              <h3 class="mb-4">Warga of the month</h3>
               <ul class="list-unstyled">
                 <li>
                   <a href="#" class="d-flex align-items-center">
                     <img src="images/person_1.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Claire Stanford</span>
-                      <span class="small">32,420 podcasts</span>
+                      <span class="small">latest-story-submission</span>
                     </div>
                   </a>
                 </li>
@@ -20,7 +20,7 @@
                     <img src="images/person_2.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Dianne Winston</span>
-                      <span class="small">12,381 podcasts</span>
+                      <span class="small">latest-story-submission</span>
                     </div>
                   </a>
                 </li>
@@ -29,7 +29,7 @@
                     <img src="images/person_3.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Borris Larry</span>
-                      <span class="small">9,291 podcasts</span>
+                      <span class="small">latest-story-submission</span>
                     </div>
                   </a>
                 </li>
@@ -38,7 +38,7 @@
                     <img src="images/person_4.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Garry Smith</span>
-                      <span class="small">3,291 podcasts</span>
+                      <span class="small">latest-story-submissions</span>
                     </div>
                   </a>
                 </li>
@@ -47,7 +47,7 @@
                     <img src="images/person_5.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Gerson Stack</span>
-                      <span class="small">1,092 podcasts</span>
+                      <span class="small">latest-story-submission</span>
                     </div>
                   </a>
                 </li>
@@ -56,7 +56,7 @@
                     <img src="images/person_6.jpg" alt="Image" class="img-fluid mr-2">
                     <div class="podcaster">
                       <span class="d-block">Jenna Stone</span>
-                      <span class="small">911 podcasts</span>
+                      <span class="small">latest-story-submission</span>
                     </div>
                   </a>
                 </li>

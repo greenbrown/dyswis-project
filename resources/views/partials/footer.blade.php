@@ -1,5 +1,5 @@
 <footer class="site-footer">
-      <div class="container">
+      <div class="container" >
         <div class="row">
           <div class="col-lg-4">
             <h3>About Us</h3>
