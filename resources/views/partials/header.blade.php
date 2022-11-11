@@ -24,19 +24,21 @@
             <li class="active">
               <a href="index.html">Home</a>
             </li>
-            
+
+            <li><a href="about.html">About</a></li>
+
             <li class="has-children">
-              <a href="#">Dropdown</a>
+              <a href="#">Episodes</a>
                 <ul class="dropdown arrow-top">
-                  <li><a href="#">Menu One</a></li>
-                  <li><a href="#">Menu Two</a></li>
-                  <li><a href="#">Menu Three</a></li>
+                  <li><a href="#">Season One</a></li>
+                  <li><a href="#">Season Two</a></li>
+                  <li><a href="#">Season Three</a></li>
                 </ul>
             </li>
                 
-            <li><a href="about.html">About</a></li>
-              <li><a href="contact.html">Contact</a></li>
-              <li><a href="login-register.html">Send your story</a></li>
+            
+            <li><a href="contact.html">Extras</a></li>
+            <li><a href="login-register.html">Send your story</a></li>
           </ul>
         </nav>
       </div>
