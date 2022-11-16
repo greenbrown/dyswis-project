@@ -67,22 +67,10 @@
           <div class="col-lg-9">
 
 
-            <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
-              <div class="image" style="background-image: url('images/img_1.jpg');"></div>
-              <div class="text">
-
-                <h3 class="font-weight-light"><a href="single-post.html">Episode 08: How To Create Web Page Using Bootstrap 4</a></h3>
-                <div class="text-white mb-3"><span class="text-black-opacity-05"><small>By Mike Smith <span class="sep">/</span> 16 September 2017 <span class="sep">/</span> 1:30:20</small></span></div>
-
-
-                <div class="player">
-                  <audio id="player2" preload="none" controls style="max-width: 100%">
-                    <source src="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" type="audio/mp3">
-                    </audio>
-                  </div>
-
-                </div>
-              </div>
+            
+            <iframe style="border-radius:1px" src="https://open.spotify.com/embed/episode/4tmwAAXIAfF5zNa17G8UFa?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+              
+            
 
 
               <div class="d-block d-md-flex podcast-entry bg-white mb-5" data-aos="fade-up">
@@ -171,6 +159,11 @@
                         </div>
                       </div>
                     </div>
+
+
+                    <!-- iframe spotify -->
+                    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/6KjdNWVqAzKwXv9IgO2SMs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
                   </div>
                 </div>
               </div>
